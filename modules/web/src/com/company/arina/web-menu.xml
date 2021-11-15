@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <menu-config xmlns="http://schemas.haulmont.com/cuba/menu.xsd">
     <menu id="application-arina" insertBefore="administration" caption="mainMsg://menu_config.application-arina">
+        <item screen="arina_Progect.browse" caption="mainMsg://menu_config.arina_Progect.browse"/>
+        <item screen="arina_Task.browse" caption="mainMsg://menu_config.arina_Task.browse"/>
     </menu>
 </menu-config>
